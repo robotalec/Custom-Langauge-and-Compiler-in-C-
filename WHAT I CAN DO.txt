@@ -1,0 +1,10 @@
+THis program can put into symbol table all locations, variables, and cosntants.
+it can sucessfully go through and find locations for variables and constants.
+it can read input, print, have comments, end and do equations.  It cannot do ifs or goto
+lets must have spaces between everything example:
+20 let y = ( 6 + 2 ) / x
+It will read in from a file and output to a file
+you must give it both the location of input and output file.
+It can do all operations correctly
+cannot use negatives or decimals
+will drop remainders

@@ -1,0 +1,6 @@
+5 rem x
+10 input x
+15 print x
+20 let y = ( 6 + 2 ) / x
+25 print y
+30 end
